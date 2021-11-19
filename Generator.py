@@ -5,13 +5,19 @@ from string import ascii_letters
 from httpx import Client
 from HCaptcha import Bypass
 from time import sleep, time
-import random
-import json, sys, os, requests, subprocess
-import threading, random, os, colorama, time, sys
-from kahoot import client
-from colorama import Fore, init
-from colorama import Back as bg
-from kahoot import head
+import json, sys
+
+with open('setting.json') as f:
+	config = json.load(f)
+ 
+invite_code = config["invite_code"]
+bot_name = config["bot_name"]
+
+_0, __0, _______0, _____0, ________0 = 0, open("proxies.txt", encoding='utf-8').readlines(), 60, ThreadPoolExecutor(max_workers=int(100000)), 500
+___0 = invite_code
+____0 = 2500
+_________0 = bot_name
+__________0 = 3
 
 def _O():
     global _0, __0
@@ -22,39 +28,13 @@ def _O():
         _, _0 = __0[0], 0
     return _.replace('\n','')
 
-termsize = os.get_terminal_size()[0]
-left = ' '*int(termsize/4)
-
-supbro = random.choice(a)
-
-def ask(prompt):
-    write(prompt, end='')
-    return input()
-
-def write(*args, **kwargs):
-    print(left, *args, **kwargs)
-
-def intro(text):
-    text = text.split('\n')
-    for t in text:
-        print(f'{t : ^{termsize}}')
-
-bars = '-'*(termsize//2)
-intro(bars + '\nDiscord Token Generator\n\nCoded by N69-Stack/SerlosX\n' + bars + '\n\n')
-
-_0, __0, _______0, _____0, ________0 = 0, open("proxies.txt", encoding='utf-8').readlines(), 60, ThreadPoolExecutor(max_workers=int(100000)), 500
-___0 = invite_code
-____0 = 2500
-_________0 = bot_name
-__________0 = 3
-
 def __O(_0):
     return ''.join(choice(ascii_letters)for _ in range(_0))
 
 def ___O(X, OO_):
     global __X0, __X1
     X_ = Bypass()
-    write("[+] Registering")
+    print("hCaptcha Bypassed")
     while True:
         if OO_ <= int(time()):
             break
@@ -70,10 +50,10 @@ def ___O(X, OO_):
         except: pass
 
 def ____O(OO_):
-    write("[+] " + ___O(___0, OO_))
+    print(___O(___0, OO_))
 
 ___OO = int(time()+int(_______0))
-write(f"[!] Setting up, please wait, might lag a bit\n")
+print(f"Start In: {_______0} Seconds")
 for _ in range (____0):
     _____0.submit(____O, ___OO)
     if _ == ________0:
