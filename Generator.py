@@ -5,18 +5,11 @@ from string import ascii_letters
 from httpx import Client
 from HCaptcha import Bypass
 from time import sleep, time
-import json, sys
-
-with open('setting.json') as f:
-	config = json.load(f)
- 
-invite_code = config["invite_code"]
-bot_name = config["bot_name"]
 
 _0, __0, _______0, _____0, ________0 = 0, open("proxies.txt", encoding='utf-8').readlines(), 60, ThreadPoolExecutor(max_workers=int(100000)), 500
-___0 = invite_code
+___0 = "" #Invite Code
 ____0 = 2500
-_________0 = bot_name
+_________0 = "" #Username
 __________0 = 3
 
 def _O():
