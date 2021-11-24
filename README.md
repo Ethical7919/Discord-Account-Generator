@@ -10,6 +10,6 @@ Please use socks4 proxies for nice experiences.
 
 If you going to sell it, i want to tell you something -> "Do it by yourself, you stupid."
 
-Anyways thanks to SerlosX / Music-Dude / ZhongEthical/ N69-Stack
+Anyways thanks to SerlosX / Music-Dude / Ethical / N69-Stack
 
 If you want me help just add me on Discord --> Ethical#2021
