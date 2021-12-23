@@ -3,7 +3,7 @@
 [!] This was made for education.
 
 Please use socks4 proxies for nice experiences.
-I recommend to run on Google Cloud Shell.
+I recommend to run on Google Cloud Shell
 
 [!] Please install these modules
     - "pip3 install httpx==0.19.0"
