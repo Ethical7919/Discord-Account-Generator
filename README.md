@@ -15,4 +15,4 @@ Anyways thanks to SerlosX / Ryanz / Ethical
 
 If you want me help just add me on Discord --> Ryanz#7919
 
-![Preview](https://media.discordapp.net/attachments/896041076706660422/914747155867111434/unknown.png)
+![Preview](https://media.discordapp.net/attachments/921395712586035230/923574616247656488/unknown.png)
