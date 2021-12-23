@@ -5,6 +5,8 @@
 Please use socks4 proxies for nice experiences.
 I recommend to run on Google Cloud Shell
 
+The account that created will be locked
+
 [!] Please install these modules
     - "pip3 install httpx==0.19.0"
     and "pip3 install httpx_socks"
