@@ -8,9 +8,9 @@ Please use socks4 proxies for nice experiences.
     - "pip3 install httpx==0.19.0"
     and "pip3 install httpx_socks"
 
-If you going to sell it, i want to tell you something -> "Do it by yourself, you stupid."
+If you're going to sell it, i want to tell you something -> "Do it by yourself, you stupid."
 
-Anyways thanks to SerlosX / Ryanz / Ethical / Larina
+Anyways thanks to SerlosX / Ryanz / Ethical
 
 If you want me help just add me on Discord --> Ryanz#7919
 
