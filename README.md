@@ -15,4 +15,4 @@ If you're going to sell it, i want to tell you something -> "Do it by yourself, 
 
 Anyways thanks to SerlosX / Ryanz / Ethical
 
-If you want me help just add me on Discord --> Ethical#7919
+If you want me help just add me on Discord --> Veerakorn#7919
